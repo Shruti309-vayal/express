@@ -94,6 +94,7 @@ clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
 ### 2. Warning
+Author-shruti vayal
 
 **Community Impact**: A violation through a single incident or series of
 actions.
